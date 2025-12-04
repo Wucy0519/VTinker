@@ -69,7 +69,11 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python3 -m torch.distributed.launch \
         --nr_data_worker 2
 ```
 ## Using of VTinker
+#### For Image
+```shell
 python -m tools.test_single_case --frame0 ./assets/img0.jpg --frame1 ./assets/img1.jpg --time_period 0.5 --save_dir ./assets/results.jpg --model_file ./checkpoints/VTinker.pkl
+```
+#### For Video
 ```shell
 python -m tools.test_video --video ./assets/video.mp4 --inter_num 2 --save_dir ./assets/result_video.mp4 --model_file ./checkpoints/VTinker.pkl
 ```
