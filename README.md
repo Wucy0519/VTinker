@@ -75,7 +75,7 @@ python -m tools.test_video --video ./assets/video.mp4 --inter_num 2 --save_dir .
 ```
 ## Benchmarking scripts
 Before starting a new test task, **please clear the temporary file** ("./dataset_train_test/tmp"), or makes a new temporary file.
-#### Test on "xiph2k", "xiph4k", "davis480p", "davis1080p"
+#### Test on "xiph2k", "davis480p", "davis1080p"
 ```shell
 # Modify the variable "dataset_name" on line 24 to replace the Benchmark.
 python -m tools.evaluate_2k 
