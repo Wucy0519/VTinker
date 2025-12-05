@@ -41,7 +41,7 @@ replace `pip install cupy_cuda11x` in above command with `pip install cupy_cuda1
 
 #### Pretained Model
 
-Download the pre-trained model files from [here](https://drive.google.com/drive/folders/1vDOo3U9l_MAM5dvpcnoFWb_La5jyHRjS?usp=drive_link) (or on [HuggingFace](https://huggingface.co/wcy1234567/VTinker))and place them in “./checkpoints”. 
+Download the pre-trained model files from [here](https://drive.google.com/drive/folders/1vDOo3U9l_MAM5dvpcnoFWb_La5jyHRjS?usp=drive_link) (or on 🤗[HuggingFace](https://huggingface.co/wcy1234567/VTinker))and place them in “./checkpoints”. 
 
 #### Datasets
 
