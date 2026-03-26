@@ -141,11 +141,14 @@ This project is licensed under the Pi-Lab License 1.0 - see the [LICENSE](LICENS
 ## Citation
 
 ```
-@inproceedings{wu2025vtinker,
+@inproceedings{wu2026vtinker,
   title={VTinker: Guided Flow Upsampling and Texture Mapping for High-Resolution Video Frame Interpolation},
   author={Wu, Chenyang and Fu, Jiayi and Guo, Chun-Le and Han, Shuhao and Li, Chongyi},
-  booktitle={AAAI2026},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={13},
+  pages={10638--10645},
+  year={2026}
 }
 ```
 
